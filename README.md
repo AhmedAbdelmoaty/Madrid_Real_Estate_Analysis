@@ -31,11 +31,11 @@ I did three types of analysis:
 
 ## 🖼️ Visualizations
 
-- ![Histogram](images/Histogram.PNG)
-- ![Boxplot](images/Boxplot.PNG)
-- ![Pairplot](images/Pairplot.PNG)
-- ![Heatmap](images/Heatmap.PNG)
-- ![Scatterplot](images/Scatterplot.PNG)
+- ![Histogram](images/Histogram.png)
+- ![Boxplot](images/Boxplot.png)
+- ![Pairplot](images/Pairplot.png)
+- ![Heatmap](images/Heatmap.png)
+- ![Scatterplot](images/Scatterplot.png)
 
 ## 🛠️ Tools Used
 - Python
